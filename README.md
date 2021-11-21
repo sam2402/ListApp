@@ -10,9 +10,12 @@ or save to a file. When a list or items are modified, the change(s) are immediat
 
 #### How to run
 Run the following commands from the rot of this project
-`mvn clean package`
-`mvn exec:exec`
-Then navigate to
+`mvn clean package`  
+
+`mvn exec:exec`  
+
+Then navigate to:  
+
 http://localhost:8080
 
 #### UML Diagram
