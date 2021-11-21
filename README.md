@@ -9,7 +9,7 @@ the name of the list.
 or save to a file. When a list or items are modified, the change(s) are immediately written to the file.
 
 #### How to run
-Run the following commands from the rot of this project
+Run the following commands from the rot of this project:  
 `mvn clean package`  
 
 `mvn exec:exec`  
