@@ -1,0 +1,6 @@
+Some Cool Features
+text,Try changing the name of An Example List. The item below also changes!,8766475a-3215-4936-a990-28df48cc9d2b
+listLink,2596a220-5d70-4d16-b125-88a66256a7f3,2348c0d8-3e72-48c5-89dc-c95684aec27b
+text,Try deleting Another List. See how the list link to it below is also deleted,05feb321-9f29-420f-9af2-651d17f9932c
+listLink,fc697af1-9b5e-4a50-9362-d5b23eaa2e49,eb00a5bf-3df7-43d9-b660-d5ed10e1e8d2
+text,An Example List also has a list link to this list causing a sort of circular list. That used to cause an infinite recursion error when reading from file but I fixed that bug,45883957-881c-4b61-affb-a15df28d99bf
